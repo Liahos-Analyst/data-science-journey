@@ -8,12 +8,12 @@ to Data Scientist / ML Engineer.
 **Goal:** Junior Data Scientist or Analyst role
 
 ## Roadmap
-- [ ] Phase 1 — NumPy Foundations (Weeks 1–3)
-- [ ] Phase 2 — Pandas & Data Wrangling (Weeks 4–6)
+- [ ] Phase 1 — NumPy Foundations 
+- [ ] Phase 2 — Pandas & Data Wrangling
 - [ ] Phase 3 — SQL (Weeks 7–8)
-- [ ] Phase 4 — Statistics & Visualization (Weeks 9–10)
-- [ ] Phase 5 — Machine Learning (Weeks 11–13)
-- [ ] Phase 6 — Portfolio & Job Search (Weeks 14–18)
+- [ ] Phase 4 — Statistics & Visualization
+- [ ] Phase 5 — Machine Learning
+- [ ] Phase 6 — Portfolio & Job Search
 
 ## Weekly Notes
 ### Week 1
